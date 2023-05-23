@@ -25,7 +25,13 @@ require_once 'admin/backend/config.php';
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Officia modi dolore magnam! Iste libero voluptatum autem, sapiente ullam earum nostrum sed magnam vel laboriosam quibusdam, officia, esse vitae dignissimos nulla?
         </aside>
         <main>
-            <!-- hier komen de attractiekaartjes -->
+            <h1>Attracties</h1>
+            <div class="attracties">
+                <div class="grids">
+                    <img src="<?php echo $base_url; ?>/img/attracties/adger-kang-oiyzr-SgjBY-unsplash.jpg" alt="reuzenrad">
+                    <h2>Reuzenrad</h2>
+                </div>
+            </div>
         </main>
     </div>
 

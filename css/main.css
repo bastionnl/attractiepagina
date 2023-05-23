@@ -108,6 +108,13 @@ body{
     background-color: #3ED67D;
     border-radius: 4px;
 }
+.attracties{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    grid-gap: 2rem;
+}
+
+
 
 /* HEADER + NAV */
 .container.header{
